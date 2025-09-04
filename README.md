@@ -61,25 +61,6 @@ Below are the Figma design screenshots for the project - GYANSETU.
 ![Ganga River Example](SCREENSHOTS/example%20view%20of%20ganga%20river.png)
 **Rich Content Examples** - Comprehensive responses with detailed explanations, perfect for topics like geography, history, and current affairs.
 
-### 📚 Content Management
-
-![Books Data](SCREENSHOTS/inserted%20books%20data.png)
-**NCERT Content Integration** - Complete NCERT textbook content organized and indexed for efficient retrieval and study.
-
-![PYQ Data](SCREENSHOTS/inserted%20pyq%20data.png)
-**Extensive Question Bank** - Comprehensive database of previous year questions from various competitive exams with proper categorization.
-
-### ℹ️ Information & Support
-
-![About Us](SCREENSHOTS/about%20us.png)
-**About Section** - Learn more about the platform, its mission, and the team behind this innovative study solution.
-
-![Contact Us](SCREENSHOTS/contact%20us%20page.png)
-**Contact Support** - Easy-to-use contact form for user queries, feedback, and technical support.
-
-![What's New](SCREENSHOTS/whats%20new%20page.png)
-**Updates & Features** - Stay informed about the latest features, improvements, and platform updates.
-
 ### 🗂️ Chat Management
 ![Chat Management](SCREENSHOTS/sidebar%20chat%20delete%20option.png)
 **Smart Chat History** - Organize, search, and manage your chat history with options to delete old conversations and maintain your study records.
