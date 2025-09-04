@@ -4,82 +4,82 @@
 
 Below are the Figma design screenshots for the project - GYANSETU.
 
-### About Us
-![About Us](SCREENSHOTS/about%20us.png)  
-This design showcases the About Us page, providing information about the project or organization.
 
-### Additional Clock and Date Feature
-[Additional Clock and Date Feature](SCREENSHOTS/additional clock and date feature.png)  
-This screenshot displays an additional feature for clock and date functionality in the application.
+## 📸 Feature Showcase
 
-### After Login User Dashboard Analysis
-[After Login User Dashboard Analysis](SCREENSHOTS/after login user can see his dashboard analysis.png)  
-This design shows the user dashboard analysis view accessible after login.
+### 🏠 Main Dashboard & Chat Interface
 
-### Answer Generation Chunks and Sources
-[Answer Generation Chunks and Sources](SCREENSHOTS/answer generation chunks and sources.png)  
-This illustrates the answer generation process, including chunks and sources.
+![Chat Interface](SCREENSHOTS/chat%20view.png)
+**Smart Chat Interface** - Engage with our AI assistant for instant answers to your study queries. The system provides contextual responses with source citations for better understanding.
 
-### Change Theme Color
-[Change Theme Color](SCREENSHOTS/change theme color .png)  
-This design allows users to change the theme color of the application.
+![Dashboard Analytics](SCREENSHOTS/after%20login%20user%20can%20see%20his%20dashboard%20analysis.png)
+**Personal Dashboard** - Track your study progress, view analytics, and monitor your learning journey with detailed insights and performance metrics.
 
-### Chat View
-[Chat View](SCREENSHOTS/chat view.png)  
-This screenshot depicts the chat interface view.
+### 🔐 Authentication & User Management
 
-### Contact Us Page
-[Contact Us Page](SCREENSHOTS/contact us page.png)  
-This design shows the Contact Us page for user inquiries.
+![Firebase Authentication](SCREENSHOTS/firebase%20log%20in%20cerdentials%20and%20history%20saver%20of%20chat%20and%20also%20for%20the%20dashboard.png)
+**Secure Login System** - Firebase-powered authentication ensures your data security while maintaining chat history and dashboard progress across sessions.
 
-### Example View of Ganga River
-[Example View of Ganga River](SCREENSHOTS/example view of ganga river.png)  
-This is an example view related to the Ganga River, possibly for educational or illustrative purposes.
+![Sidebar Navigation](SCREENSHOTS/sidebar.png)
+**Intuitive Navigation** - Clean sidebar design with easy access to all features, chat history management, and user settings.
 
-### Firebase Login Credentials and History Saver
-[Firebase Login Credentials and History Saver](SCREENSHOTS/firebase log in cerdentials and history saver of chat and also for the dashboard.png)  
-This design covers Firebase login credentials, chat history saving, and dashboard history.
+### 📝 PYQ (Previous Year Questions) System
 
-### Select Subject in Query
-[Select Subject in Query](SCREENSHOTS/in query can select which subject you want to study.png)  
-This allows users to select a subject for study in their queries.
+![PYQ Section](SCREENSHOTS/pyq%20section.png)
+**Comprehensive PYQ Collection** - Access thousands of previous year questions organized by exam types including UPSC, SSC, Banking, and more.
 
-### Inserted Books Data
-[Inserted Books Data](SCREENSHOTS/inserted books data.png)  
-This screenshot shows the interface for inserting or viewing books data.
+![PYQ with Explanations](SCREENSHOTS/pyq%20section%20with%20explanatation.png)
+**Detailed Explanations** - Each question comes with comprehensive explanations to help you understand concepts thoroughly.
 
-### Inserted PYQ Data
-[Inserted PYQ Data](SCREENSHOTS/inserted pyq data.png)  
-This design displays the insertion of Previous Year Questions (PYQ) data.
+![Important Questions](SCREENSHOTS/pyq%20section%20with%20important%20question%20marked.png)
+**Important Questions Marked** - AI identifies and highlights high-priority questions based on exam patterns and frequency.
 
-### PYQ Correct Answer
-[PYQ Correct Answer](SCREENSHOTS/pyq correct answer.png)  
-This illustrates the correct answer view in the PYQ section.
+![Correct Answer](SCREENSHOTS/pyq%20correct%20answer.png)
+**Interactive Testing** - Real-time feedback on your answers with detailed explanations for correct responses.
 
-### PYQ Section with Explanation
-[PYQ Section with Explanation](SCREENSHOTS/pyq section with explanatation.png)  
-This shows the PYQ section including explanations for answers.
+![Wrong Answer](SCREENSHOTS/pyq%20wrong%20answer.png)
+**Learning from Mistakes** - Constructive feedback on incorrect answers with hints and detailed explanations to improve understanding.
 
-### PYQ Section with Important Question Marked
-[PYQ Section with Important Question Marked](SCREENSHOTS/pyq section with important question marked.png)  
-This design highlights important questions in the PYQ section.
+### 🎨 Customization & Features
 
-### PYQ Section
-[PYQ Section](SCREENSHOTS/pyq section.png)  
-This is the general view of the PYQ (Previous Year Questions) section.
+![Theme Customization](SCREENSHOTS/change%20theme%20color%20.png)
+**Theme Customization** - Personalize your study environment with multiple color themes and dark/light mode options.
 
-### PYQ Wrong Answer
-[PYQ Wrong Answer](SCREENSHOTS/pyq wrong answer.png)  
-This screenshot depicts the wrong answer feedback in the PYQ section.
+![Clock Feature](SCREENSHOTS/additional%20clock%20and%20date%20feature.png)
+**Study Timer** - Built-in clock and date display to help you track study sessions and maintain focus during preparation.
 
-### Sidebar Chat Delete Option
-[Sidebar Chat Delete Option](SCREENSHOTS/sidebar chat delete option.png)  
-This design includes the delete option for chats in the sidebar.
+![Subject Selection](SCREENSHOTS/in%20query%20can%20select%20which%20subject%20you%20want%20to%20study.png)
+**Subject-wise Learning** - Filter and focus on specific subjects for targeted preparation and better organization.
 
-### Sidebar
-[Sidebar](SCREENSHOTS/sidebar.png)  
-This shows the sidebar interface of the application.
+### 🔍 AI-Powered Search & Responses
 
-### What's New Page
-[What's New Page](SCREENSHOTS/whats new page.png)  
-This design presents the What's New page, highlighting updates or new features.
+![Answer Generation](SCREENSHOTS/answer%20generation%20chunks%20and%20sources.png)
+**Source-Cited Responses** - AI provides detailed answers with proper source citations and chunked information for better comprehension.
+
+![Ganga River Example](SCREENSHOTS/example%20view%20of%20ganga%20river.png)
+**Rich Content Examples** - Comprehensive responses with detailed explanations, perfect for topics like geography, history, and current affairs.
+
+### 📚 Content Management
+
+![Books Data](SCREENSHOTS/inserted%20books%20data.png)
+**NCERT Content Integration** - Complete NCERT textbook content organized and indexed for efficient retrieval and study.
+
+![PYQ Data](SCREENSHOTS/inserted%20pyq%20data.png)
+**Extensive Question Bank** - Comprehensive database of previous year questions from various competitive exams with proper categorization.
+
+### ℹ️ Information & Support
+
+![About Us](SCREENSHOTS/about%20us.png)
+**About Section** - Learn more about the platform, its mission, and the team behind this innovative study solution.
+
+![Contact Us](SCREENSHOTS/contact%20us%20page.png)
+**Contact Support** - Easy-to-use contact form for user queries, feedback, and technical support.
+
+![What's New](SCREENSHOTS/whats%20new%20page.png)
+**Updates & Features** - Stay informed about the latest features, improvements, and platform updates.
+
+### 🗂️ Chat Management
+![Chat Management](SCREENSHOTS/sidebar%20chat%20delete%20option.png)
+**Smart Chat History** - Organize, search, and manage your chat history with options to delete old conversations and maintain your study records.
+
+---
