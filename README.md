@@ -1,5 +1,7 @@
 # OpenAI x NxtWave Buildathon – Project idea Submission
 
+# GYANSETU
+
 ## Figma Designs
 
 Below are the Figma design screenshots for the project - GYANSETU.
