@@ -5,7 +5,7 @@
 Below are the Figma design screenshots for the project - GYANSETU.
 
 ### About Us
-[About Us](SCREENSHOTS/about%us.png)  
+![About Us](SCREENSHOTS/about%us.png)  
 This design showcases the About Us page, providing information about the project or organization.
 
 ### Additional Clock and Date Feature
